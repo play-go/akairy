@@ -1709,4 +1709,4 @@ def site():
 t1=threading.Thread(target=site, daemon=True)
 t1.start()
 
-bot.run("ODcxNDI0MTY5MDEzODI5Njcy.GASZTG.-9EkQx9xoFjBgkFG0EgsWoXkoPgM43gpw595-8")
+bot.run("Token here")
