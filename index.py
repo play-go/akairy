@@ -1705,7 +1705,7 @@ def site():
                 mainds.refresh()
                 await asyncio.sleep(5)
         await funct()
-    ui.run(title="DashBoard", dark=True, reload=False,show=False, port=1480)
+    ui.run(title="DashBoard", dark=True, reload=False,show=False, port=8080)
 t1=threading.Thread(target=site, daemon=True)
 t1.start()
 
