@@ -4,7 +4,7 @@ Discord bot для roleplaying
 # Установка
 
 ```
-pip install psutil disnake sqlitedict nicegui 
+pip install psutil disnake sqlitedict nicegui randomtimestamp
 ```
 
 # Запуск
